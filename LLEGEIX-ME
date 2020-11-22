@@ -1,0 +1,13 @@
+--Instrucciones ejecutadas:
+1.  git branch branca00
+5.  git checkout main, git status, git log
+7.  git checkout branca00
+10b.  git merge branca00
+12. git push origin main
+14a.  git push --set-upstream origin branca01
+
+--Respuestas a preguntas
+6.  No, Porque los cambios se realizaron en la rama branca00
+7.  Sí, porque los cambios solo se pueden ver desde esta rama
+12c.  Porque, al fusionar la rama branca00 con la rama main todos los cambios de la rama branca00 se aplican en la rama main
+14c.  Está a 1 commit de distancia
